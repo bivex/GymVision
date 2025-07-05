@@ -1,5 +1,5 @@
 # Gym Vision
-[![Trained with 💪](https://a.b-b.top/badge.svg?repo=GymVision&label=Trained%20with%20💪&background_color=e53935&background_color2=ef5350&utm_source=github&utm_medium=readme&utm_campaign=badge)](https://a.b-b.top)
+[![Trained with 💪](https://a.b-b.top/badge.svg?repo=GymVision&label=Trained&background_color=e53935&background_color2=ef5350&utm_source=github&utm_medium=readme&utm_campaign=badge)](https://a.b-b.top)
 
 A simple Python application for tracking body movements using computer vision.
 
